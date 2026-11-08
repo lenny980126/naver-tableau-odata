@@ -1,0 +1,4 @@
+.venv/
+.env
+# .DS_Store 맥의 경우
+__pycache__/ # python 캐시 파일
